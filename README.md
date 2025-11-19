@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Joy
 
-**Systems engineer, Solana developer, and game engine tinkerer.**  
+**Tinkerer with a focus on performance and productivity**  
 I like building things close to the metal: runtimes, distributed backends, rendering engines, and tools that make other developers faster.
 
 ---
