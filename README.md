@@ -1,6 +1,6 @@
 Hey!
 
-I'm Joy  and I really enjoy solving hard problems.
+I'm joy
 
 Email: jmjoymallik@gmail.com
 blog: https://joym.dev
