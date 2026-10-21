@@ -1,6 +1,6 @@
 Hey!
 
-I'm joy
+I'm Joy
 
 Email: jmjoymallik@gmail.com
 blog: https://joym.dev
